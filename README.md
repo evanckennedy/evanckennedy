@@ -10,7 +10,7 @@ web applications that make a positive impact on people's lives.
 I enjoy working on both frontend and backend development, and I'm constantly 
 seeking opportunities to enhance my skills and broaden my knowledge in software 
 development. When I'm not coding, you can find me reading, 
-<a href="https://evankennedy.substack.com/" target="_blank">blogging</a>, or playing sports.
+[blogging](https://evankennedy.substack.com/), or playing sports.
 
 ## 💻 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
