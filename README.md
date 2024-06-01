@@ -3,7 +3,7 @@
 ## Hi there, I'm Evan Kennedy! 👋
 
 I'm a software developer based in Winnipeg, Canada, with a passion for web 
-development. I specialize in HTML, CSS, and JavaScript, and I'm always eager to 
+development. I specialize in HTML, CSS, JavaScript and C# and I'm always eager to 
 learn and explore new technologies. I love creating interactive and user-friendly 
 web applications that make a positive impact on people's lives.
 
