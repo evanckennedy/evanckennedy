@@ -3,14 +3,13 @@
 ## Hi there, I'm Evan Kennedy! 👋
 
 I'm a software developer based in Winnipeg, Canada, with a passion for web 
-development. I specialize in HTML, CSS, JavaScript and C# and I'm always eager to 
+development. I specialize in HTML, CSS, JavaScript, TypeScript, React and C#. I'm always eager to 
 learn and explore new technologies. I love creating interactive and user-friendly 
 web applications that make a positive impact on people's lives.
 
 I enjoy working on both frontend and backend development, and I'm constantly 
 seeking opportunities to enhance my skills and broaden my knowledge in software 
-development. When I'm not coding, you can find me reading, 
-[blogging](https://evankennedy.substack.com/), or playing sports.
+development. When I'm not coding, you can find me reading, blogging, or playing sports.
 
 ## 💻 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,11 +32,8 @@ development. When I'm not coding, you can find me reading,
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
 ## 🌐 Contact Me
 - 📧 Email: [evanckennedy@protonmail.com](mailto:evanckennedy@protonmail.com)
 
 ##
 [![Evan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evanckennedy&bg_color=000000&color=a2c4e6&line=a2e6e6&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
