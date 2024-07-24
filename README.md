@@ -37,5 +37,5 @@ Check out my best repositories [here](https://github.com/stars/evanckennedy/list
 ## 🌐 Contact Me
 - 📧 Email: [evanckennedy@protonmail.com](mailto:evanckennedy@protonmail.com)
 
-##
-[![Evan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evanckennedy&bg_color=000000&color=a2c4e6&line=a2e6e6&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- ##
+[![Evan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evanckennedy&bg_color=000000&color=a2c4e6&line=a2e6e6&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
