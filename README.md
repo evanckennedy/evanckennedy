@@ -31,6 +31,9 @@ development. When I'm not coding, you can find me reading, blogging, or playing 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## 🌟 My Best Repositories
+Check out my best repositories [here](https://github.com/stars/evanckennedy/lists/best-repos).
+
 ## 🌐 Contact Me
 - 📧 Email: [evanckennedy@protonmail.com](mailto:evanckennedy@protonmail.com)
 
