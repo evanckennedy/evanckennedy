@@ -23,5 +23,8 @@ I'm a junior software developer based in Winnipeg, Canada, passionate about buil
 ## 🌟 My Best Repositories
 Check out my best public repositories [here](https://github.com/stars/evanckennedy/lists/best-repos).
 
+## 🎥 Project Demos
+Want to see my projects in action? Check out my [YouTube playlist](https://youtube.com/playlist?list=PLxO5hb91uH0O0bcLsGXu2xFxj4tz1l6g5&feature=shared) where I demo some of my apps and projects.
+
 ## 🌐 Contact Me
 - 📧 Email: [evanckennedy@protonmail.com](mailto:evanckennedy@protonmail.com)
