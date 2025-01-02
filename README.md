@@ -30,7 +30,7 @@ I'm a junior software developer based in Winnipeg, Canada, passionate about buil
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🌟 My Best Repositories
-Check out my best repositories [here](https://github.com/stars/evanckennedy/lists/best-repos).
+Check out my best public repositories [here](https://github.com/stars/evanckennedy/lists/best-repos).
 
 ## 🌐 Contact Me
 - 📧 Email: [evanckennedy@protonmail.com](mailto:evanckennedy@protonmail.com)
