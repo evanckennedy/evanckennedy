@@ -4,6 +4,9 @@
 
 I'm a junior software developer based in Winnipeg, Canada, passionate about building full-stack applications and solving complex problems. I enjoy both frontend and backend development and am always seeking opportunities to broaden my knowledge. When I'm not coding, I like to read, blog, or play sports.
 
+## 🎥 Project Demos
+Want to see my projects in action? Check out my [YouTube playlist](https://youtube.com/playlist?list=PLxO5hb91uH0O0bcLsGXu2xFxj4tz1l6g5&feature=shared) where I demo some of my apps and projects.
+
 ## 💻 Skills
 ### Programming Languages
 - C#, Python, JavaScript, TypeScript, SQL
@@ -22,9 +25,6 @@ I'm a junior software developer based in Winnipeg, Canada, passionate about buil
 
 ## 🌟 My Best Repositories
 Check out my best public repositories [here](https://github.com/stars/evanckennedy/lists/best-repos).
-
-## 🎥 Project Demos
-Want to see my projects in action? Check out my [YouTube playlist](https://youtube.com/playlist?list=PLxO5hb91uH0O0bcLsGXu2xFxj4tz1l6g5&feature=shared) where I demo some of my apps and projects.
 
 ## 🌐 Contact Me
 - 📧 Email: [evanckennedy@protonmail.com](mailto:evanckennedy@protonmail.com)
