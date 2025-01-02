@@ -2,11 +2,7 @@
 
 ## Hi there, I'm Evan Kennedy! 👋
 
-I'm a software developer based in Winnipeg, Canada, with a passion for web development. I specialize in HTML, CSS, JavaScript, TypeScript, React, Next.js, SQL Server, C#, ASP.NET, MongoDB, Express, and Python. I'm always eager to learn and explore new technologies. I love creating interactive and user-friendly web applications that make a positive impact on people's lives.
-
-I enjoy working on both frontend and backend development, and I'm constantly 
-seeking opportunities to enhance my skills and broaden my knowledge in software 
-development. When I'm not coding, you can find me reading, blogging, or playing sports.
+I'm a junior software developer based in Winnipeg, Canada, passionate about building full-stack applications and solving complex problems. I enjoy both frontend and backend development and am always seeking opportunities to broaden my knowledge. When I'm not coding, I like to read, blog, or play sports.
 
 ## 💻 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
