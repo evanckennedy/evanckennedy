@@ -4,6 +4,8 @@
 
 I'm a junior software developer based in Winnipeg, Canada, passionate about building full-stack applications and solving complex problems. I enjoy both frontend and backend development and am always seeking opportunities to broaden my knowledge. When I'm not coding, I like to read, blog, or play sports.
 
+I graduated with a Diploma in Software Development from the Manitoba Institute of Trades and Technology
+
 ## 🎥 Project Demos
 Want to see my projects in action? Check out my [YouTube playlist](https://youtube.com/playlist?list=PLxO5hb91uH0O0bcLsGXu2xFxj4tz1l6g5&feature=shared) where I demo some of my apps and projects.
 
@@ -39,6 +41,9 @@ Want to see my projects in action? Check out my [YouTube playlist](https://youtu
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+
+## 📜 Certifications
+- **AWS Certified Cloud Practitioner**   
 
 ## 🌟 My Best Repositories
 Check out my best public repositories [here](https://github.com/stars/evanckennedy/lists/best-public-repos).
