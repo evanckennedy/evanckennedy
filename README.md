@@ -43,7 +43,7 @@ Want to see my projects in action? Check out my [YouTube playlist](https://youtu
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
 ## 📜 Certifications
-- **AWS Certified Cloud Practitioner**   
+- AWS Certified Cloud Practitioner   
 
 ## 🌟 My Best Repositories
 Check out my best public repositories [here](https://github.com/stars/evanckennedy/lists/best-public-repos).
