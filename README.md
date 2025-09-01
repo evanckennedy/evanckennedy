@@ -16,8 +16,9 @@ Here are the main technologies I’ve worked with:
 **Languages:** C#, Python, JavaScript/TypeScript, SQL  
 **Frameworks & Runtime:** ASP.NET, React, Next.js, Node.js, Express  
 **Frontend:** HTML5, CSS3, Tailwind CSS  
-**Databases:** SQL Server, PostgreSQL, MongoDB (Mongoose, Prisma)  
-**Tools:** Git, GitHub/GitLab, Docker
+**Databases:** SQL Server, PostgreSQL, MongoDB (Mongoose, Prisma, Sequelize)  
+**Deployment & Cloud:** AWS, Netlify, Railway, Vercel  
+**Tools:** Git, GitHub/GitLab/Bitbucket, Docker
 
 ## 📜 Certifications
 - AWS Certified Cloud Practitioner
