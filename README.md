@@ -12,7 +12,7 @@ Want to see my projects in action? Check out my [YouTube playlist](https://youtu
 ## 💻 Tech Stack
 
 **Languages:** C#, Python, JavaScript/TypeScript, SQL  
-**Frameworks:** ASP.NET, React, Next.js, Express  
+**Frameworks & Runtime:** ASP.NET, React, Next.js, Node.js, Express 
 **Frontend:** HTML5, CSS3, Tailwind CSS  
 **Databases:** SQL Server, PostgreSQL, MongoDB (Mongoose, Prisma, Sequelize)  
 **Tools:** Git, GitHub/GitLab/Bitbucket, Docker
