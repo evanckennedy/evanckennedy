@@ -10,12 +10,11 @@ I graduated with a Diploma in Software Development from the Manitoba Institute o
 Want to see my projects in action? Check out my [YouTube playlist](https://youtube.com/playlist?list=PLxO5hb91uH0O0bcLsGXu2xFxj4tz1l6g5&feature=shared) where I demo some of my apps and projects.
 
 ## 💻 Tech Stack
-
 **Languages:** C#, Python, JavaScript/TypeScript, SQL  
-**Frameworks & Runtime:** ASP.NET, React, Next.js, Node.js, Express 
+**Frameworks & Runtime:** ASP.NET, React, Next.js, Node.js, Express  
 **Frontend:** HTML5, CSS3, Tailwind CSS  
-**Databases:** SQL Server, PostgreSQL, MongoDB (Mongoose, Prisma, Sequelize)  
-**Tools:** Git, GitHub/GitLab/Bitbucket, Docker
+**Databases:** SQL Server, PostgreSQL, MongoDB (Mongoose, Prisma)  
+**Tools:** Git, GitHub/GitLab, Docker  
 
 ## 📜 Certifications
 - AWS Certified Cloud Practitioner
