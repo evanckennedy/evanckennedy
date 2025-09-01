@@ -11,7 +11,7 @@ Want to see my projects in action? Check out my [YouTube playlist](https://youtu
 
 ## 💻 Tech Stack
 I primarily work with the **PERN stack** (PostgreSQL, Express, React, Node.js).  
-Here’s the full list of technologies I’ve worked with:
+Here are the main technologies I’ve worked with:
 
 **Languages:** C#, Python, JavaScript/TypeScript, SQL  
 **Frameworks & Runtime:** ASP.NET, React, Next.js, Node.js, Express  
