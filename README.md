@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Evan Kennedy! 👋
 
-I'm a junior software developer based in Winnipeg, Canada, passionate about building full-stack applications and solving complex problems. I enjoy both frontend and backend development and am always seeking opportunities to broaden my knowledge. When I'm not coding, I like to read, blog, or play sports.
+I'm a full-stack developer based in Winnipeg, Canada, passionate about building web applications and solving complex problems. I enjoy both frontend and backend development and am always seeking opportunities to broaden my knowledge. When I'm not coding, I like to read, blog, or play sports.
 
 I graduated with a Diploma in Software Development from the Manitoba Institute of Trades and Technology.
 
@@ -43,7 +43,8 @@ Want to see my projects in action? Check out my [YouTube playlist](https://youtu
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
 ## 📜 Certifications
-- AWS Certified Cloud Practitioner   
+- AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner
 
 ## 🌟 My Best Repositories
 Check out my best public repositories [here](https://github.com/stars/evanckennedy/lists/best-public-repos).
